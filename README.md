@@ -4,9 +4,18 @@
     </a>
 </p>
 
+## 30 days of code
 
 | Tables   |      Name      |  C  |    C++ |   Python|
 |----------|:-------------: |------:|------:|-------:|
 | col 1 is |  left-aligned  |  |
+| col 2 is |    centered    |   $12 |
+| col 3 is | right-aligned  |    $1 |
+
+## Python 
+
+| Category  |      Name       |  Solution|
+|----------|:----------------:|----------:|
+| String   |String validation |[solution.py](python/string/string_validation.py)|
 | col 2 is |    centered    |   $12 |
 | col 3 is | right-aligned  |    $1 |
