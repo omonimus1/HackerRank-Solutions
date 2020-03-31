@@ -12,10 +12,24 @@
 | Loops|[solution.c]()|[solution.cpp](30-days-of-code/loops/solution.cpp)|[solution.py](30-days-of-code/loops/solution.py)|
 | DataTypes |[solution.c]()|[solution.cpp]()|[solution.py](30-days-of-code/data-types/solution.cpp)|
 
+## Problem Solving
+| Name     |  C               | C++       |Python     |
+|----------|:----------------:|----------:|----------:|
+| Array-DS |                  |[solution.cpp](problem-solving/array-ds/solution.cpp)| [solution.cpp](problem-solving/array-ds/solution.py)|
+| col 2 is |    centered    |   $12 |
+| col 3 is | right-aligned  |    $1 |
+
 ## Python 
 
 | Category  |      Name       |  Solution|
 |----------|:----------------:|----------:|
 | String   |String validation |[solution.py](python/string/string_validation.py)|
-| col 2 is |    centered    |   $12 |
-| col 3 is | right-aligned  |    $1 |
+
+## SQL 
+| Category    |     Name        |   Database|  Solution |
+|-------------|:---------------:|----------:|----------:|
+| Basic select|Revising-Select 1| ORACLE   |  [solution.sql](sql/basic-select/revising-select-query-1.sql)|
+| Basic select|Revising-Select 2| ORACLE   |  [solution.sql](sql/basic-select/revising-select-query2.sql)|
+| Basic select|Weather observation| ORACLE   |  [solution.sql](sql/basic-select/weather-observation-3.sql)|
+| Aggregation | Sum function | ORACLE | [solution.sql](sql/aggregation/sum-function.sql)|
+| Aggregation | Japanese population | ORACLE | [solution.sql](sql/aggregation/japan-population.sql)|
