@@ -6,11 +6,12 @@
 
 ## 30 days of code
 
-| Name     |   C   |    C++ | Python | 
-|----------|------:|-------:|-------:|
-| Hello World|[solution.c](30-days-of-code/hello-world/solution.c)|[solution.cpp](30-days-of-code/hello-world/solution.cpp)|[solution.py](30-days-of-code/hello-world/solution.py)|
-| Loops|[solution.c]()|[solution.cpp](30-days-of-code/loops/solution.cpp)|[solution.py](30-days-of-code/loops/solution.py)|
-| DataTypes |[solution.c]()|[solution.cpp]()|[solution.py](30-days-of-code/data-types/solution.cpp)|
+| Name     |   C   |    C++ | Python | Java | 
+|----------|------:|-------:|-------:|  |
+| Hello World|[solution.c](30-days-of-code/hello-world/solution.c)|[solution.cpp](30-days-of-code/hello-world/solution.cpp)|[solution.py](30-days-of-code/hello-world/solution.py)| |
+| Loops|[solution.c]()|[solution.cpp](30-days-of-code/loops/solution.cpp)|[solution.py] |(30-days-of-code/loops/solution.py)| |
+| DataTypes |[solution.c]()|[solution.cpp]()|[solution.py](30-days-of-code/data-types/solution.cpp)| || Operators |[]()|[solution.cpp](30-days-of-code/operators/solution.cpp)|[]()| [solution.java](30-days-of-code/operators/solution.java) |
+| let's review |[]()|[solution.cpp](30-days-of-code/lets-review/solution.cpp)|[]()| []() |
 
 ## Problem Solving
 | Name     |  C               | C++       |Python     |
