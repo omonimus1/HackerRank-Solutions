@@ -18,8 +18,7 @@
 | Name     |  C               | C++       |Python     |
 |----------|:----------------:|----------:|----------:|
 | Array-DS |                  |[solution.cpp](problem-solving/array-ds/solution.cpp)| [solution.cpp](problem-solving/array-ds/solution.py)|
-| col 2 is |    centered    |   $12 |
-| col 3 is | right-aligned  |    $1 |
+
 
 ## Python 
 
