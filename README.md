@@ -30,9 +30,12 @@
 ## SQL 
 | Category    |     Name        |   Database|  Solution |
 |-------------|:---------------:|----------:|----------:|
-| Basic select|Revising-Select 1| ORACLE   |[solution.sql](sql/basic-select/revising-select-query-1.sql)|
-| Basic select|Revising-Select 2| ORACLE   |[solution.sql](sql/basic-select/revising-select-query2.sql)|
-| Basic select|Weather observation| ORACLE |[solution.sql](sql/basic-select/weather-observation-3.sql)|
-| Basic select|Weather observation-8| MySQL | [solution.sql](sql/basic-select/weather-observation-8.sql)|
-| Aggregation | Sum function | ORACLE | [solution.sql](sql/aggregation/sum-function.sql)|
-| Aggregation | Japanese population | ORACLE | [solution.sql](sql/aggregation/japan-population.sql)|
+|Basic select|Revising-Select 1|ORACLE|[solution.sql](sql/basic-select/revising-select-query-1.sql)|
+|Basic select|Revising-Select 2|ORACLE|[solution.sql](sql/basic-select/revising-select-query2.sql)|
+|Basic select|Weather observation|ORACLE|[solution.sql](sql/basic-select/weather-observation-3.sql)|
+|Basic select|Weather observation-6|MySQL|[solution.sql](sql/basic-select/weather-observation-6.sql)|
+|Basic select|Weather observation-8|MySQL|[solution.sql](sql/basic-select/weather-observation-8.sql)|
+|Basic select|Weather observation-9|MySQL|[solution.sql](sql/basic-select/weather-station-9.sql)|
+|Aggregation | Sum function | ORACLE | [solution.sql](sql/aggregation/sum-function.sql)|
+|Aggregation | Japanese population | ORACLE | [solution.sql](sql/aggregation/japan-population.sql)|
+|Basic Join|Average Continent Population|MYSQL|[solution.sql](sql/basic-join/average-continent-population.sql)|
