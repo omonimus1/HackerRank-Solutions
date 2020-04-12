@@ -26,6 +26,7 @@
 |----------|:----------------:|----------:|
 | String   |String validation |[solution.py](python/string/string_validation.py)|
 
+
 ## SQL 
 | Category    |     Name        |   Database|  Solution |
 |-------------|:---------------:|----------:|----------:|
@@ -38,3 +39,14 @@
 |Aggregation | Sum function | ORACLE | [solution.sql](sql/aggregation/sum-function.sql)|
 |Aggregation | Japanese population | ORACLE | [solution.sql](sql/aggregation/japan-population.sql)|
 |Basic Join|Average Continent Population|MYSQL|[solution.sql](sql/basic-join/average-continent-population.sql)|
+
+
+## 10-Days-Javascript 
+
+|Day|      Name |  Solution|
+|---|:---------:|----------:|
+| 0 |Hello world|[solution.js](10-days-javascript/hello-world.js)|
+| 1 |Data types|[solution.js](10-days-javascript/data-types.js)|
+| 1 |Arithmetic Operators|[solution.js](10-days-javascript/arithmetic-operators.js)|
+
+
