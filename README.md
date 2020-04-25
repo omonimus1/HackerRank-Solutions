@@ -25,6 +25,7 @@
 | Category  |      Name       |  Solution|
 |----------|:----------------:|----------:|
 | String   |String validation |[solution.py](python/string/string_validation.py)|
+| Introduction|Hello World|[solution.py](python/helloworld.py)|
 
 
 ## SQL 
@@ -48,5 +49,7 @@
 | 0 |Hello world|[solution.js](10-days-javascript/hello-world.js)|
 | 1 |Data types|[solution.js](10-days-javascript/data-types.js)|
 | 1 |Arithmetic Operators|[solution.js](10-days-javascript/arithmetic-operators.js)|
+| 1 |Function|[solution.js](10-days-javascript/function.js)|
+| 1 |If-else|[solution.js](10-days-javascript/if-else.js)|
 
 
