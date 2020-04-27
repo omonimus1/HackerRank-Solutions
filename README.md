@@ -18,6 +18,7 @@
 | Name     |  C               | C++       |Python     |
 |----------|:----------------:|----------:|----------:|
 | Array-DS |                  |[solution.cpp](problem-solving/array-ds/solution.cpp)| [solution.cpp](problem-solving/array-ds/solution.py)|
+|Print Linked List| |[solution.cpp](problem-solving/linked-list/print-linked-list.cpp)|[solution.py](problem-solving/linked-list/print-linked-list.py)|
 
 
 ## Python 
