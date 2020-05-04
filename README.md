@@ -4,13 +4,25 @@
     </a>
 </p>
 
-# HackerRank Solutions
+## What you can find in this repository
 
-Welcome to my HackerRank solutions. Unfortunately, I have decided to start publishing my solutions after I have solved already many of them however, I will daily update this repository and add / retrieve also the other solutions. 
+Here you will be able to find my HackerRank solutions to many challenghes, using C++, JavaScript, Python and SQL
+
+## How to contribute?
+1. Fork the repository
+2. Do the desired changes (add/delete/modify)
+3. Make a pull request
+
+## When to contribute?
+1. If there is no solution to a problem in the main branch.
+2. If your solution is asymptotically faster than the one in the main branch.
+3. If your algorithm is of the same time complexity but with reduced code size. In this case, comment out the original solution and make a pull request with your solution.
+4. If you have another method of solving the problem which is asymptotically slower than the original method then, comment your solution in the main file and make a pull request.
 
 ## Mind that
+Constructive criticisms or code reviews of any kind are very much welcome.
 
-Feedback of any kind is very appreciate it. 
+If you have any questions about the solutions you can find here, feel free to contact me at: [davidepollicino2015@gmail.com](mailto:davidepollicino2015@gmail.com?subject=[GitHub]%20HackerRankSolution)
 
 
 ## Correlated Materials
@@ -20,11 +32,13 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 ## Index
 
 * [SQL](#SQL)
+* [Python](#Python)
+* [C++](#C++)
+* [Problem Solving](#Problem-Solving)
 * [30 days of code](#30-Days-Of-Code)
 * [10 days of Javascript](#10-Days-Of-Javascript)
 * [Problem Solving](#Proble Solving)
-* [Python](#Python)
-* [C++](#C++)
+
 
 ## SQL 
 | Category    |     Name        |   Database|  Solution |
@@ -55,7 +69,8 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 |----------|----------:|----------:|
 | Array-DS |[C++](problem-solving/array-ds/solution.cpp)| [C++](problem-solving/array-ds/solution.py)|
 |Print Linked List|[C++](problem-solving/linked-list/print-linked-list.cpp)|[Python](problem-solving/linked-list/print-linked-list.py)|
-
+|Preorder Traversal Tree|[C++](c++/preorder-tree)|[Python](problem-solving/preorder-tree.py)|
+|PostOrder Traversal Tree|[C++](problem-solving/postorder.cpp)|[Python](problem-solving/postoder.py)|
 
 ## Python 
 
@@ -63,7 +78,6 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 |----------|:----------------:|----------:|
 | String   |String validation |[Python](python/string/string_validation.py)|
 | Introduction|Hello World|[Python](python/helloworld.py)|
-
 
 
 
@@ -84,3 +98,15 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 | Name |  Solution|
 |---|:---------:|----------:|
 |Data Types|[C++](c++/data-types.cpp)|
+|Array left shift|[C++](c++/arra_left_shift.cpp)|
+|Min Max sum|[C++](c++/min-max-sum.cpp)|
+|Preoder Traversal Tree|[C++](c++/preorder-traversal.cpp)|
+|Struct|[C++](c++/struct.cpp)|
+|Vector Sort|[C++](c++/vector_sort.cpp)|
+|Vector Erase|[C++](c++/vector-erase.cpp)|
+|SET|[C++](c++/set.cpp)|
+|Map|[C++](c++/map.cpp)|
+
+
+
+
