@@ -78,6 +78,11 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 |----------|:----------------:|----------:|
 | String   |String validation |[Python](python/string/string_validation.py)|
 | Introduction|Hello World|[Python](python/helloworld.py)|
+| I/O |Python-print|[Python](python/python-print.py)|
+| Data Structure |List|[Python](python/list.py)|
+| Python Loops |Loops|[Python](python/loop.py)|
+
+
 
 
 
@@ -96,7 +101,7 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 ## C++
 
 | Name |  Solution|
-|---|:---------:|----------:|
+|---|:---------:|
 |Data Types|[C++](c++/data-types.cpp)|
 |Array left shift|[C++](c++/arra_left_shift.cpp)|
 |Min Max sum|[C++](c++/min-max-sum.cpp)|
