@@ -70,7 +70,9 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 | Array-DS |[C++](problem-solving/array-ds/solution.cpp)| [C++](problem-solving/array-ds/solution.py)|
 |Print Linked List|[C++](problem-solving/linked-list/print-linked-list.cpp)|[Python](problem-solving/linked-list/print-linked-list.py)|
 |Preorder Traversal Tree|[C++](c++/preorder-tree)|[Python](problem-solving/preorder-tree.py)|
-|PostOrder Traversal Tree|[C++](problem-solving/postorder.cpp)|[Python](problem-solving/postoder.py)|
+|PostOrder Traversal Tree|[C++](problem-solving/postorder.cpp)|[Python]||Insert Node at the head of Linked List| |[C++](problem-solving/linked-list/insert-node-at-the-head.cpp)|
+|Print reverse of a linked list| |[C++](problem-solving/linked-list/print_reverse.cpp)|
+|Get the value of thenode at a specific position from the tail| |[C++](problem-solving/linked-list/get_node_from_tail.cpp)|
 
 ## Python 
 
