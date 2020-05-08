@@ -83,11 +83,7 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 | I/O |Python-print|[Python](python/python-print.py)|
 | Data Structure |List|[Python](python/list.py)|
 | Python Loops |Loops|[Python](python/loop.py)|
-
-
-
-
-
+| Split and join |Strings |[Python](python/split_and_join.py)|
 
 ## 10 Days Javascript 
 
