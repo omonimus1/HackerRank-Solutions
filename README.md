@@ -8,23 +8,6 @@
 
 Here you will be able to find my HackerRank solutions to many challenghes, using C++, JavaScript, Python and SQL
 
-## How to contribute?
-1. Fork the repository
-2. Do the desired changes (add/delete/modify)
-3. Make a pull request
-
-## When to contribute?
-1. If there is no solution to a problem in the main branch.
-2. If your solution is asymptotically faster than the one in the main branch.
-3. If your algorithm is of the same time complexity but with reduced code size. In this case, comment out the original solution and make a pull request with your solution.
-4. If you have another method of solving the problem which is asymptotically slower than the original method then, comment your solution in the main file and make a pull request.
-
-## Mind that
-Constructive criticisms or code reviews of any kind are very much welcome.
-
-If you have any questions about the solutions you can find here, feel free to contact me at: [davidepollicino2015@gmail.com](mailto:davidepollicino2015@gmail.com?subject=[GitHub]%20HackerRankSolution)
-
-
 ## Correlated Materials
 
 This repository is part of the [Competitive Programmig guide](https://github.com/omonimus1/competitive-programming/blob/master/README.md) so if you would to like to have access to other coding solutions by Codechef, [Geeks For Geeks](https://github.com/omonimus1/geeks-for-geeks-solutions/blob/master/README.md), InterviewBit or UVA, visit [My Competitive Programming repository](https://github.com/omonimus1/competitive-programming/blob/master/README.md)
@@ -73,7 +56,8 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 |PostOrder Traversal Tree|[C++](problem-solving/postorder.cpp)|[Python]||Insert Node at the head of Linked List| |[C++](problem-solving/linked-list/insert-node-at-the-head.cpp)|
 |Print reverse of a linked list| |[C++](problem-solving/linked-list/print_reverse.cpp)|
 |Get the value of thenode at a specific position from the tail| |[C++](problem-solving/linked-list/get_node_from_tail.cpp)|
-
+|Reverse Linked list||[C++](problem-solving/linked-list/reverse.cpp)|
+|Compare two list||[C++](problem-solving/linked-list/compare_two_list.cpp)|
 ## Python 
 
 | Category  |      Name       |  Solution|
@@ -94,6 +78,11 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 | 1 |Arithmetic Operators|[JS](10-days-javascript/arithmetic-operators.js)|
 | 1 |Function|[JS](10-days-javascript/function.js)|
 | 1 |If-else|[JS](10-days-javascript/if-else.js)|
+| 1 |Let and Cost|[JS](10-days-javascript/let_and_cost.js)|
+| 2 |Loops|[JS](10-days-javascript/loops.js)|
+| 4 |Recatangle Object ([Tutorial](https://www.hackerrank.com/challenges/js10-objects/topics))|[JS](10-days-javascript/rectangle_object.js)|
+| 4 |Count Objects ([Tutorial](https://www.hackerrank.com/challenges/js10-count-objects/topics))|[](10-days-javascript/ )|
+
 
 
 ## C++
@@ -111,5 +100,19 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 |Map|[C++](c++/map.cpp)|
 
 
+## How to contribute?
+1. Fork the repository
+2. Do the desired changes (add/delete/modify)
+3. Make a pull request
 
+## When to contribute?
+1. If there is no solution to a problem in the main branch.
+2. If your solution is asymptotically faster than the one in the main branch.
+3. If your algorithm is of the same time complexity but with reduced code size. In this case, comment out the original solution and make a pull request with your solution.
+4. If you have another method of solving the problem which is asymptotically slower than the original method then, comment your solution in the main file and make a pull request.
+
+## Mind that
+Constructive criticisms or code reviews of any kind are very much welcome.
+
+If you have any questions about the solutions you can find here, feel free to contact me at: [davidepollicino2015@gmail.com](mailto:davidepollicino2015@gmail.com?subject=[GitHub]%20HackerRankSolution)
 
