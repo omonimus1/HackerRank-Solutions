@@ -21,7 +21,7 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 * [30 days of code](#30-Days-Of-Code)
 * [10 days of Javascript](#10-Days-Of-Javascript)
 * [Problem Solving](#Proble Solving)
-
+* [Interview Preparation Kit](#Interview-preparation-kit)
 
 ## SQL 
 | Category    |     Name        |   Database|  Solution |
@@ -99,6 +99,10 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 |SET|[C++](c++/set.cpp)|
 |Map|[C++](c++/map.cpp)|
 
+## Interview preparation kit
+| Name |  Solution|
+|---|:---------:|
+|Detect Cycle in Linked List|[C++](inteview_preparation/detect_cyclec.cpp)|
 
 ## How to contribute?
 1. Fork the repository
