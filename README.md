@@ -58,6 +58,9 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 |Get the value of thenode at a specific position from the tail| |[C++](problem-solving/linked-list/get_node_from_tail.cpp)|
 |Reverse Linked list||[C++](problem-solving/linked-list/reverse.cpp)|
 |Compare two list||[C++](problem-solving/linked-list/compare_two_list.cpp)|
+|Detect Loop in a Linked List||[C++](problem-solving/linked-list/detect_loop.cpp)|
+|Insert node in a specific position||[C++](problem-solving/linked-list/insert_in_specif_position.cpp)|
+|Insert at the tail of a linked list||[C++](problem-solving/insert_at_tail.cpp)|
 ## Python 
 
 | Category  |      Name       |  Solution|
