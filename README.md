@@ -59,13 +59,13 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 |Print Linked List|[C++](problem-solving/linked-list/print-linked-list.cpp)|[Python](problem-solving/linked-list/print-linked-list.py)|
 |Preorder Traversal Tree|[C++](c++/preorder-tree)|[Python](problem-solving/preorder-tree.py)|
 |PostOrder Traversal Tree|[C++](problem-solving/postorder.cpp)|[Python]||Insert Node at the head of Linked List| |[C++](problem-solving/linked-list/insert-node-at-the-head.cpp)|
-|Print reverse of a linked list| |[C++](problem-solving/linked-list/print_reverse.cpp)|
-|Get the value of thenode at a specific position from the tail| |[C++](problem-solving/linked-list/get_node_from_tail.cpp)|
-|Reverse Linked list|[C++](problem-solving/linked-list/reverse.cpp)|[Python](problem-solving.py)|
-|Compare two list|[C++](problem-solving/linked-list/compare_two_list.cpp)|[Python](problem-solving.py)|
+|Print reverse of a linked list| [C++](problem-solving/linked-list/print_reverse.cpp)||
+|Get the value of thenode at a specific position from the tail|[C++](problem-solving/linked-list/get_node_from_tail.cpp)||
+|Reverse Linked list|[C++](problem-solving/linked-list/reverse.cpp)||
+|Compare two list|[C++](problem-solving/linked-list/compare_two_list.cpp)||
 |Detect Loop in a Linked List|[C++](problem-solving/linked-list/detect_loop.cpp)|[Python](problem-solving/linked-ist/has_cycle.py)|
-|Insert node in a specific position|[C++](problem-solving/linked-list/insert_in_specif_position.cpp)|[Python](problem-solving.py)|
-|Insert at the tail of a linked list|[C++](problem-solving/insert_at_tail.cpp)|[Python](problem-solving.py)|
+|Insert node in a specific position|[C++](problem-solving/linked-list/insert_in_specif_position.cpp)||
+|Insert at the tail of a linked list|[C++](problem-solving/insert_at_tail.cpp)||
 
 
 ## Python 
