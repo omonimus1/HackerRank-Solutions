@@ -32,19 +32,24 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 |Basic select|Weather observation-6|MySQL|[SQL](sql/basic-select/weather-observation-6.sql)|
 |Basic select|Weather observation-8|MySQL|[SQL](sql/basic-select/weather-observation-8.sql)|
 |Basic select|Weather observation-9|MySQL|[SQL](sql/basic-select/weather-station-9.sql)|
+|Basic select|Weather observation-11|MySQL|[SQL](sql/basic-select/weather-station-11.sql)|
 |Aggregation | Sum function | ORACLE | [SQL](sql/aggregation/sum-function.sql)|
 |Aggregation | Japanese population | ORACLE | [SQL](sql/aggregation/japan-population.sql)|
 |Basic Join|Average Continent Population|MYSQL|[SQL](sql/basic-join/average-continent-population.sql)|
+|Basic Join|Asian Population|MYSQL|[SQL](sql/basic-join/asian_population.sql)|
+|Basic Join|African Cities|MYSQL|[SQL](sql/basic-join/african_cities.sql)|
+
 
 ## 30 Days Of Code
 
-| Name     |   C   |    C++ | Python | Java   | 
-|----------|------:|-------:|-------:|-------:|
-| Hello World|[C](30-days-of-code/hello-world/solution.c)|[C++](30-days-of-code/hello-world/solution.cpp)|[PYTHON](30-days-of-code/hello-world/solution.py)| |
-| Loops|[C]()|[C++](30-days-of-code/loops/solution.cpp)|[PYTHON](30-days-of-code/loops/solution.py) || |
-| DataTypes | | |[PYTHON](30-days-of-code/data-types/solution.cpp)| 
-| Operators ||[C++](30-days-of-code/operators/solution.cpp)|[N/A](https://github.com/omonimus1/HackerRank-Solutions)| [JAVA](30-days-of-code/operators/solution.java) |
+| Name     |C++ | Python | Java   | 
+|----------|-----:|-------:|-------:|
+| Hello World|[C++](30-days-of-code/hello-world/solution.cpp)|[PYTHON](30-days-of-code/hello-world/solution.py)|[Java](30-days-of-code/hello-world/solution.java)|
+| Loops|[C++](30-days-of-code/loops/solution.cpp)|[PYTHON](30-days-of-code/loops/solution.py)|[Java](30-days-of-code/loops/solution.java)||
+| DataTypes | |[PYTHON](30-days-of-code/data-types/solution.cpp)| 
+| Operators |[C++](30-days-of-code/operators/solution.cpp)|[N/A](https://github.com/omonimus1/HackerRank-Solutions)| [JAVA](30-days-of-code/operators/solution.java) |
 |Array|| |[Python](30-days-of-code/array.py) |
+|LinkedList||[C++](30-days-of-code/linked-list/solution.cpp) |[Python](30-days-of-code/linked-list/solution.py)|
 
 
 ## Problem Solving
@@ -56,11 +61,13 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 |PostOrder Traversal Tree|[C++](problem-solving/postorder.cpp)|[Python]||Insert Node at the head of Linked List| |[C++](problem-solving/linked-list/insert-node-at-the-head.cpp)|
 |Print reverse of a linked list| |[C++](problem-solving/linked-list/print_reverse.cpp)|
 |Get the value of thenode at a specific position from the tail| |[C++](problem-solving/linked-list/get_node_from_tail.cpp)|
-|Reverse Linked list||[C++](problem-solving/linked-list/reverse.cpp)|
-|Compare two list||[C++](problem-solving/linked-list/compare_two_list.cpp)|
-|Detect Loop in a Linked List||[C++](problem-solving/linked-list/detect_loop.cpp)|
-|Insert node in a specific position||[C++](problem-solving/linked-list/insert_in_specif_position.cpp)|
-|Insert at the tail of a linked list||[C++](problem-solving/insert_at_tail.cpp)|
+|Reverse Linked list|[C++](problem-solving/linked-list/reverse.cpp)|[Python](problem-solving.py)|
+|Compare two list|[C++](problem-solving/linked-list/compare_two_list.cpp)|[Python](problem-solving.py)|
+|Detect Loop in a Linked List|[C++](problem-solving/linked-list/detect_loop.cpp)|[Python](problem-solving/linked-ist/has_cycle.py)|
+|Insert node in a specific position|[C++](problem-solving/linked-list/insert_in_specif_position.cpp)|[Python](problem-solving.py)|
+|Insert at the tail of a linked list|[C++](problem-solving/insert_at_tail.cpp)|[Python](problem-solving.py)|
+
+
 ## Python 
 
 | Category  |      Name       |  Solution|
