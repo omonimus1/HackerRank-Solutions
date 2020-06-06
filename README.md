@@ -46,7 +46,7 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 |----------|-----:|-------:|-------:|
 | Hello World|[C++](30-days-of-code/hello-world/solution.cpp)|[PYTHON](30-days-of-code/hello-world/solution.py)|[Java](30-days-of-code/hello-world/solution.java)|
 | Loops|[C++](30-days-of-code/loops/solution.cpp)|[PYTHON](30-days-of-code/loops/solution.py)|[Java](30-days-of-code/loops/solution.java)||
-| DataTypes | |[PYTHON](30-days-of-code/data-types/solution.cpp)| 
+| DataTypes | |[PYTHON](30-days-of-code/data-types/solution.py)| 
 | Operators |[C++](30-days-of-code/operators/solution.cpp)|[N/A](https://github.com/omonimus1/HackerRank-Solutions)| [JAVA](30-days-of-code/operators/solution.java) |
 |Array|| |[Python](30-days-of-code/array.py) |
 |LinkedList||[C++](30-days-of-code/linked-list/solution.cpp) |[Python](30-days-of-code/linked-list/solution.py)|
@@ -113,6 +113,9 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 | Name |  Solution|
 |---|:---------:|
 |Detect Cycle in Linked List|[C++](inteview_preparation/detect_cyclec.cpp)|
+|Pairs|[C++](inteview_preparation/pairs.cpp)|
+|Height of a tree|[C++](inteview_preparation/height-of-a-tree.cpp)|
+
 
 ## How to contribute?
 1. Fork the repository
