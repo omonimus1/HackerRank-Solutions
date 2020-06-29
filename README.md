@@ -66,7 +66,11 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 |Detect Loop in a Linked List|[C++](problem-solving/linked-list/detect_loop.cpp)|[Python](problem-solving/linked-ist/has_cycle.py)|
 |Insert node in a specific position|[C++](problem-solving/linked-list/insert_in_specif_position.cpp)||
 |Insert at the tail of a linked list|[C++](problem-solving/insert_at_tail.cpp)||
+|Tree Inorder|[C++](problem-solving/tree-inorder.cpp)||
+|Tree level traversal|[C++](problem-solving/tree-level-traversal.cpp)||
+|Binary search insertion|[C++](problem-solving/binary-search-insertion.cpp)||
 
+| |[C++](problem-solving/.cpp)||
 
 ## Python 
 
