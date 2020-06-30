@@ -73,6 +73,7 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 |Strong passsword|[C++](problem-solving/strong-password.cpp)||
 |CamelCase|[C++](problem-solving/camelcase.cpp)||
 |Find the media|[C++](problem-solving/find-the-median.cpp)||
+|Beautiful binary string(substring search)|[C++](problem-solving/beautiful-binary-string.cpp)||
 
 
 
