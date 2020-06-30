@@ -20,7 +20,7 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 * [Problem Solving](#Problem-Solving)
 * [30 days of code](#30-Days-Of-Code)
 * [10 days of Javascript](#10-Days-Of-Javascript)
-* [Problem Solving](#Proble Solving)
+* [Problem Solving](#Proble-Solving)
 * [Interview Preparation Kit](#Interview-preparation-kit)
 
 ## SQL 
@@ -58,7 +58,7 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 | Array-DS |[C++](problem-solving/array-ds/solution.cpp)| [C++](problem-solving/array-ds/solution.py)|
 |Print Linked List|[C++](problem-solving/linked-list/print-linked-list.cpp)|[Python](problem-solving/linked-list/print-linked-list.py)|
 |Preorder Traversal Tree|[C++](c++/preorder-tree)|[Python](problem-solving/preorder-tree.py)|
-|PostOrder Traversal Tree|[C++](problem-solving/postorder.cpp)|[Python]||Insert Node at the head of Linked List| |[C++](problem-solving/linked-list/insert-node-at-the-head.cpp)|
+|PostOrder Traversal Tree|[C++](problem-solving/postorder.cpp)| ||Insert Node at the head of Linked List| |[C++](problem-solving/linked-list/insert-node-at-the-head.cpp)|
 |Print reverse of a linked list| [C++](problem-solving/linked-list/print_reverse.cpp)||
 |Get the value of thenode at a specific position from the tail|[C++](problem-solving/linked-list/get_node_from_tail.cpp)||
 |Reverse Linked list|[C++](problem-solving/linked-list/reverse.cpp)||
@@ -69,6 +69,10 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 |Tree Inorder|[C++](problem-solving/tree-inorder.cpp)||
 |Tree level traversal|[C++](problem-solving/tree-level-traversal.cpp)||
 |Binary search insertion|[C++](problem-solving/binary-search-insertion.cpp)||
+|Delete ndoe from a linked list|[C++](problem-solving/delete-a-node-from-a-linked-list.cpp)||
+|Strong passsword|[C++](problem-solving/strong-password.cpp)||
+
+
 
 | |[C++](problem-solving/.cpp)||
 
