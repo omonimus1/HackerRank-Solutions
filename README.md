@@ -74,6 +74,8 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 |CamelCase|[C++](problem-solving/camelcase.cpp)||
 |Find the media|[C++](problem-solving/find-the-median.cpp)||
 |Beautiful binary string(substring search)|[C++](problem-solving/beautiful-binary-string.cpp)||
+|cats and a mouse|[C++](problem-solving/cats-and-a-mouse.cpp)||
+|Level order traverse of a  Binary Tree|[C++](problem-solving/level-order-traverse.cpp)||
 
 
 
