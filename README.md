@@ -71,6 +71,8 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 |Binary search insertion|[C++](problem-solving/binary-search-insertion.cpp)||
 |Delete ndoe from a linked list|[C++](problem-solving/delete-a-node-from-a-linked-list.cpp)||
 |Strong passsword|[C++](problem-solving/strong-password.cpp)||
+|CamelCase|[C++](problem-solving/camelcase.cpp)||
+|Find the media|[C++](problem-solving/find-the-median.cpp)||
 
 
 
