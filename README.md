@@ -10,7 +10,7 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 
 ## Correlated Materials
 
-This repository is part of the [Competitive Programmig guide](https://github.com/omonimus1/competitive-programming/blob/master/README.md) so if you would to like to have access to other coding solutions by Codechef, [Geeks For Geeks](https://github.com/omonimus1/geeks-for-geeks-solutions/blob/master/README.md), InterviewBit or UVA, visit [My Competitive Programming repository](https://github.com/omonimus1/competitive-programming/blob/master/README.md)
+[Visit my Competitive programming guide and see also my HackerRank, GeeksForGeeks, Leetcode and other online judges solutions](https://github.com/omonimus1/competitive-programming)
 
 ## Index
 
@@ -103,9 +103,10 @@ This repository is part of the [Competitive Programmig guide](https://github.com
 | 1 |If-else|[JS](10-days-javascript/if-else.js)|
 | 1 |Let and Cost|[JS](10-days-javascript/let_and_cost.js)|
 | 2 |Loops|[JS](10-days-javascript/loops.js)|
+| 2 |Conditional switch|[JS](10-days-javascript/conditional-witch.js)|
 | 4 |Recatangle Object ([Tutorial](https://www.hackerrank.com/challenges/js10-objects/topics))|[JS](10-days-javascript/rectangle_object.js)|
 | 4 |Count Objects ([Tutorial](https://www.hackerrank.com/challenges/js10-count-objects/topics))|[](10-days-javascript/ )|
-
+|  | |[JS](10-days-javascript/.js)|
 
 
 ## C++
@@ -146,3 +147,7 @@ Constructive criticisms or code reviews of any kind are very much welcome.
 
 If you have any questions about the solutions you can find here, feel free to contact me at: [davidepollicino2015@gmail.com](mailto:davidepollicino2015@gmail.com?subject=[GitHub]%20HackerRankSolution)
 
+## Support
+
+Support me to get more material like this.
+[PAYPAL ME](https://paypal.me/davidepollicino7?locale.x=en_US)
