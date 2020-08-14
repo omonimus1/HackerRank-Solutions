@@ -94,6 +94,7 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 |Swap case|[Python](python/swap_case.py)||
 |Python mutations|[Python](python/python_mutations.py)||
 |Capitalize|[Python](python/capitalize.py)||
+|Validating phone number|[Python](python/validating_phone_number.py)||
 
 | |[Python](python/.py)||
 
