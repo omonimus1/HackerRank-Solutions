@@ -91,6 +91,9 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 | Data Structure |List|[Python](python/list.py)|
 | Python Loops |Loops|[Python](python/loop.py)|
 | Split and join |Strings |[Python](python/split_and_join.py)|
+|Swap case|[Python](python/swap_case.py)||
+
+| |[Python](python/.py)||
 
 ## 10 Days Javascript 
 
