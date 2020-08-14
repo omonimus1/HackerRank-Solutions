@@ -123,8 +123,9 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 |SET|[C++](c++/set.cpp)|
 |Map|[C++](c++/map.cpp)|
 |Vector-Erase 2| [C++](c++/vector-erase2.cpp)|
+|C-tutorial pointer| [C++](c++/c-tutorial-pointer.cpp)|
 
-|  | |[C++](c++/.cpp)|
+|   |[C++](c++/.cpp)|
 
 ## Interview preparation kit
 | Name |  Solution|
