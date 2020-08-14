@@ -92,6 +92,7 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 | Python Loops |Loops|[Python](python/loop.py)|
 | Split and join |Strings |[Python](python/split_and_join.py)|
 |Swap case|[Python](python/swap_case.py)||
+|Python mutations|[Python](python/python_mutations.py)||
 
 | |[Python](python/.py)||
 
