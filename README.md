@@ -122,6 +122,9 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 |Vector Erase|[C++](c++/vector-erase.cpp)|
 |SET|[C++](c++/set.cpp)|
 |Map|[C++](c++/map.cpp)|
+|Vector-Erase 2| [C++](c++/vector-erase2.cpp)|
+
+|  | |[C++](c++/.cpp)|
 
 ## Interview preparation kit
 | Name |  Solution|
