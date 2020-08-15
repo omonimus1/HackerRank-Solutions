@@ -76,6 +76,8 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 |Beautiful binary string(substring search)|[C++](problem-solving/beautiful-binary-string.cpp)||
 |cats and a mouse|[C++](problem-solving/cats-and-a-mouse.cpp)||
 |Level order traverse of a  Binary Tree|[C++](problem-solving/level-order-traverse.cpp)||
+|30-Sorting|[C++](problem-solving/30-sorting.cpp)||
+|Divisible sum pair|[C++](problem-solving/divisble-sum-pair.cpp)||
 
 
 
