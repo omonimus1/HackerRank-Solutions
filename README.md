@@ -80,6 +80,7 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 |Divisible sum pair|[C++](problem-solving/divisble-sum-pair.cpp)||
 |Apple and orange|[PYTHON](problem-solving/apple-and-orange.py)||
 |FInd digits|[C++](problem-solving/find-digits.cpp)||
+|Angry professor|[C++](problem-solving/angry-professor.cpp)||
 
 
 
