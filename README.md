@@ -79,6 +79,7 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 |30-Sorting|[C++](problem-solving/30-sorting.cpp)||
 |Divisible sum pair|[C++](problem-solving/divisble-sum-pair.cpp)||
 |Apple and orange|[PYTHON](problem-solving/apple-and-orange.py)||
+|FInd digits|[C++](problem-solving/find-digits.cpp)||
 
 
 
