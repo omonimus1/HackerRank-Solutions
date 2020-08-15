@@ -81,6 +81,7 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 |Apple and orange|[PYTHON](problem-solving/apple-and-orange.py)||
 |FInd digits|[C++](problem-solving/find-digits.cpp)||
 |Angry professor|[C++](problem-solving/angry-professor.cpp)||
+|Tutorial Intro|[C++](problem-solving/turorial-intro.cpp)||
 
 
 
