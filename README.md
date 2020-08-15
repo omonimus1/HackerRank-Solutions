@@ -78,6 +78,7 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 |Level order traverse of a  Binary Tree|[C++](problem-solving/level-order-traverse.cpp)||
 |30-Sorting|[C++](problem-solving/30-sorting.cpp)||
 |Divisible sum pair|[C++](problem-solving/divisble-sum-pair.cpp)||
+|Apple and orange|[PYTHON](problem-solving/apple-and-orange.py)||
 
 
 
