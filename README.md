@@ -86,6 +86,7 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 |Sock Merchant|[C++](problem-solving/sock-merchant.cpp)||
 | Circular array rotation|[C++](problem-solving/circular-array-rotation.cpp)||
 |Equality in a array|[C++](problem-solving/equality-in-a-array.cpp)||
+|Grading|[C++](problem-solving/student-grading.cpp)||
 
 
 
