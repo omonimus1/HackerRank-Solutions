@@ -87,6 +87,7 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 | Circular array rotation|[C++](problem-solving/circular-array-rotation.cpp)||
 |Equality in a array|[C++](problem-solving/equality-in-a-array.cpp)||
 |Grading|[C++](problem-solving/student-grading.cpp)||
+|Kangooro|[C++](problem-solving/kangooro.cpp)||
 
 
 
