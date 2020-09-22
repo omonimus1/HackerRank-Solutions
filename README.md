@@ -50,6 +50,7 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 | Operators |[C++](30-days-of-code/operators/solution.cpp)|[N/A](https://github.com/omonimus1/HackerRank-Solutions)| [JAVA](30-days-of-code/operators/solution.java) |
 |Array|| |[Python](30-days-of-code/array.py) |
 |LinkedList||[C++](30-days-of-code/linked-list/solution.cpp) |[Python](30-days-of-code/linked-list/solution.py)|
+| 30-dictionaries-and-maps|[C++](30-days-of-code/30-dictionaries-and-maps.cpp)||
 
 
 ## Problem Solving
