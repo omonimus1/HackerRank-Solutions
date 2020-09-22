@@ -51,6 +51,7 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 |Array|| |[Python](30-days-of-code/array.py) |
 |LinkedList||[C++](30-days-of-code/linked-list/solution.cpp) |[Python](30-days-of-code/linked-list/solution.py)|
 | 30-dictionaries-and-maps|[C++](30-days-of-code/30-dictionaries-and-maps.cpp)||
+| 30-dictionaries-and-maps|[C++](30-days-of-code/binary-number.cpp)||
 
 
 ## Problem Solving
