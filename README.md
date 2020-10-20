@@ -90,6 +90,7 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 |Equality in a array|[C++](problem-solving/equality-in-a-array.cpp)||
 |Grading|[C++](problem-solving/student-grading.cpp)||
 |Kangooro|[C++](problem-solving/kangooro.cpp)||
+|Panagrams|[C++](problem-solving/panagrams.cpp)||
 
 
 
