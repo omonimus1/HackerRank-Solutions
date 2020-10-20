@@ -91,6 +91,7 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 |Grading|[C++](problem-solving/student-grading.cpp)||
 |Kangooro|[C++](problem-solving/kangooro.cpp)||
 |Panagrams|[C++](problem-solving/panagrams.cpp)||
+|Alternating characters|[C++](problem-solving/alternating-characters.cpp)||
 
 
 
