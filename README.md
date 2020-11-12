@@ -93,6 +93,7 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 |Panagrams|[C++](problem-solving/panagrams.cpp)||
 |Alternating characters|[C++](problem-solving/alternating-characters.cpp)||
 |ice Cream Parlor|[C++](problem-solving/ice-cream-parlor.cpp)||
+|Lonely-integer|[C++](problem-solving/lonely-integer.cpp)||
 
 
 
