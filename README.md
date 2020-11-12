@@ -92,6 +92,7 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 |Kangooro|[C++](problem-solving/kangooro.cpp)||
 |Panagrams|[C++](problem-solving/panagrams.cpp)||
 |Alternating characters|[C++](problem-solving/alternating-characters.cpp)||
+|ice Cream Parlor|[C++](problem-solving/ice-cream-parlor.cpp)||
 
 
 
