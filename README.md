@@ -94,7 +94,7 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 |Alternating characters|[C++](problem-solving/alternating-characters.cpp)||
 |ice Cream Parlor|[C++](problem-solving/ice-cream-parlor.cpp)||
 |Lonely-integer|[C++](problem-solving/lonely-integer.cpp)||
-
+|Cpmpare tripletes|[C++](problem-solving/compare-tripletes.cpp)||
 
 
 | |[C++](problem-solving/.cpp)||
