@@ -62,6 +62,7 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 ## Problem Solving
 | Name     | C++       |Python     |
 |----------|----------:|----------:|
+| |[C++](problem-solving/insert_node_in_double_linked_list.cpp)||
 | Array-DS |[C++](problem-solving/array-ds/solution.cpp)| [C++](problem-solving/array-ds/solution.py)|
 |Print Linked List|[C++](problem-solving/linked-list/print-linked-list.cpp)|[Python](problem-solving/linked-list/print-linked-list.py)|
 |Preorder Traversal Tree|[C++](c++/preorder-tree)|[Python](problem-solving/preorder-tree.py)|
