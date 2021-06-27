@@ -31,6 +31,7 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 ## SQL 
 | Category    |     Name        |   Database|  Solution |
 |-------------|:---------------:|----------:|----------:|
+|Aggregation -Count|Revising aggregations the count |MYSQL|[SQL](sql/REVISING-AGGREATION-THE-COUNT.sql)|
 |SELECT| Weather Observation Station 16|MYSQL|[SQL](sql/weather-observation-station-16.sql)|
 |SELECT| Weather Observation Station 2|MYSQL|[SQL](sql/weather-oservation-2.sql)|
 |SELECT| Weather Observation Station 13|MYSQL|[SQL](sql/weather-observation-13.sql)|
