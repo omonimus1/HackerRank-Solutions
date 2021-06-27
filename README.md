@@ -31,6 +31,7 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 ## SQL 
 | Category    |     Name        |   Database|  Solution |
 |-------------|:---------------:|----------:|----------:|
+|SELECT| Weather Observation Station 2 |MYSQL|[SQL](sql/weather-oservation-2.sql)|
 |Basic select|Revising-Select 1|ORACLE|[SQL](sql/basic-select/revising-select-query-1.sql)|
 |Basic select|Revising-Select 2|ORACLE|[SQL](sql/basic-select/revising-select-query2.sql)|
 |Basic select|Weather observation|ORACLE|[SQL](sql/basic-select/weather-observation-3.sql)|
