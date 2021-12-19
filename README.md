@@ -71,7 +71,8 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 | Array-DS |[C++](problem-solving/array-ds/solution.cpp)| [C++](problem-solving/array-ds/solution.py)|
 |Print Linked List|[C++](problem-solving/linked-list/print-linked-list.cpp)|[Python](problem-solving/linked-list/print-linked-list.py)|
 |Preorder Traversal Tree|[C++](c++/preorder-tree)|[Python](problem-solving/preorder-tree.py)|
-|PostOrder Traversal Tree|[C++](problem-solving/postorder.cpp)| ||Insert Node at the head of Linked List| |[C++](problem-solving/linked-list/insert-node-at-the-head.cpp)|
+|PostOrder Traversal Tree|[C++](problem-solving/postorder.cpp)| |
+|Insert Node at the head of Linked List|[C++](problem-solving/linked-list/insert-node-at-the-head.cpp)|[Python](problem-solving/linked-list/insert-node-at-the-head.py)|
 |Print reverse of a linked list| [C++](problem-solving/linked-list/print_reverse.cpp)||
 |Get the value of thenode at a specific position from the tail|[C++](problem-solving/linked-list/get_node_from_tail.cpp)||
 |Reverse Linked list|[C++](problem-solving/linked-list/reverse.cpp)||
