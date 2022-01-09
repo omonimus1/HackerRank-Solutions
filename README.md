@@ -67,15 +67,16 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 ## Problem Solving
 | Name     | C++       |Python     |
 |----------|----------:|----------:|
+|Plus Minus| | [Python](problem-solving/plus_minus.py)|
 | Insert not in double linkedln list|[C++](problem-solving/insert_node_in_double_linked_list.cpp)||
 |Min max sum|[PY](problem-solving/min-max-sum.py)|
-
-| Array-DS |[C++](problem-solving/array-ds/solution.cpp)| [C++](problem-solving/array-ds/solution.py)|
+| Array-DS |[C++](problem-solving/array-ds/solution.cpp)| [Python](problem-solving/array-ds/solution.py)|
 |Print Linked List|[C++](problem-solving/linked-list/print-linked-list.cpp)|[Python](problem-solving/linked-list/print-linked-list.py)|
 |Preorder Traversal Tree|[C++](c++/preorder-tree)|[Python](problem-solving/preorder-tree.py)|
 |PostOrder Traversal Tree|[C++](problem-solving/postorder.cpp)| |
 |Insert Node at the head of Linked List|[C++](problem-solving/linked-list/insert-node-at-the-head.cpp)|[Python](problem-solving/linked-list/insert-node-at-the-head.py)|
 |Print reverse of a linked list| [C++](problem-solving/linked-list/print_reverse.cpp)||
+|Plus Minus| [C++](problem-solving/.cpp)|[Python](problem-solving/.py)|
 |Get the value of thenode at a specific position from the tail|[C++](problem-solving/linked-list/get_node_from_tail.cpp)||
 |Reverse Linked list|[C++](problem-solving/linked-list/reverse.cpp)||
 |Compare two list|[C++](problem-solving/linked-list/compare_two_list.cpp)||
