@@ -68,6 +68,7 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 | Name     | C++       |Python     |
 |----------|----------:|----------:|
 |Plus Minus| | [Python](problem-solving/plus_minus.py)|
+|Diagonal Difference|[C++](problem-solving/diagonal_difference.cpp) | |
 | Insert not in double linkedln list|[C++](problem-solving/insert_node_in_double_linked_list.cpp)||
 |Min max sum|[PY](problem-solving/min-max-sum.py)|
 | Array-DS |[C++](problem-solving/array-ds/solution.cpp)| [Python](problem-solving/array-ds/solution.py)|
