@@ -68,6 +68,7 @@ Here you will be able to find my HackerRank solutions to many challenghes, using
 | Name     | C++       |Python     |
 |----------|----------:|----------:|
 |Plus Minus| | [Python](problem-solving/plus_minus.py)|
+|HackerRank tweets| | [Python](problem-solving/hackerrank-tweets.py)|
 |Diagonal Difference|[C++](problem-solving/diagonal_difference.cpp) | |
 |Time conversion|[C++](problem-solving/time_conversion.cpp) | |
 | Insert not in double linkedln list|[C++](problem-solving/insert_node_in_double_linked_list.cpp)||
