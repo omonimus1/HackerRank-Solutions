@@ -1,0 +1,21 @@
+# https://www.hackerrank.com/challenges/itertools-product/problem?isFullScreen=true
+"""
+itertools is a Python standard library that provides tools for creating and working with iterators, especially for efficient looping, combinatorics, and sequence generation. It is mainly used to produce sequences without generating all elements in memory at once.
+
+The Cartesian product of input iterables is the set of all possible ordered combinations where you take one element from each iterable.
+
+Formally, if you have two sets 
+A and 𝐵, it generates all the combinations.
+
+for p in product(A, B): print(p, end=' ') how comes that this produces: (1, 3) (1, 4) (2, 3) (2, 4)
+
+This happens because itertools.product(A, B) generates the Cartesian product of the two lists, i.e., all possible ordered pairs where the first element comes from A and the second from B.
+"""
+from itertools import product
+
+# map(int, input().split()) converts each split element to an integer.
+A = list(map(int, input().split()))
+B = list(map(int, input().split()))
+
+for p in product(A, B):
+    print(p, end=' ')
